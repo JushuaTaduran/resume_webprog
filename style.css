@@ -94,7 +94,7 @@ li {
   background: rgba(255, 255, 255, 0.3);
   box-shadow: rgba(0, 0, 0, 0.35) 0.5rem 0.5rem 1rem;
   display: flex;
-  flex-wrap: wrap;
+  flex-wrap: no-wrap;
   padding: 1.5rem 2rem;
   position: relative;
 }
