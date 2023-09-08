@@ -121,6 +121,7 @@ li {
     width: 180px;
     position: absolute;
     top: 11rem;
+    vertical-align: top;
   }
 }
 
