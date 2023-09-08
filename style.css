@@ -198,7 +198,7 @@ li {
 
 .progress-bar {
   height: 20px;
-  background-color: #ccc;
+  background-color: #e3d6c7;
 }
 
 .fill {
@@ -210,7 +210,7 @@ li {
   content: "";
   display: block;
   height: 100%;
-  background-color: #3498db;
+  background-color: #d2b48c;
 }
 
 .line {
